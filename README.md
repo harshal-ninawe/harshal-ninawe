@@ -9,7 +9,7 @@
     <strong>B.Tech IT • Ex-President @ IT Nexus Forum • Web & Data Explorer</strong>
   </p>
 
-  <!-- Crisp Social Badges (Whitespace removed to eliminate underline artifacts) -->
+  <!-- Crisp Social Badges (Zero underline artifacts) -->
   <p align="center">
     <a href="https://harshal-ninawe-portfolio.lovable.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Portfolio-1A1B26?style=for-the-badge&logo=googlechrome&logoColor=7AA2F7" alt="Portfolio" /></a>&nbsp;&nbsp;<a href="https://linkedin.com/in/ninawe-harshal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;<a href="mailto:harshalninawe19@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;&nbsp;<a href="https://github.com/harshal-ninawe"><img src="https://img.shields.io/badge/GitHub-24292E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
@@ -22,7 +22,7 @@
 
 - 🌐 **Full-Stack Development**: Specializing in crafting responsive, performant web applications using the **MERN Stack**, **Next.js**, and modern UI frameworks.
 - 📊 **Data Analytics**: Passionate about deriving actionable insights from raw data pipelines using **Python, Pandas, SQL, and Dataiku**.
-- 🏛️ **Leadership**: Former President of the **IT Nexus Forum**, leading large-scale technical symposiums, hackathons, and student initiatives.
+- 🏛️ **Leadership**: Former President of the **IT Nexus Forum**, leading campus-wide technical symposiums, hackathons, and student initiatives.
 - 🎯 **Current Focus**: Bridging user-centric modern frontends with clean, data-driven analytical backends.
 
 ---
@@ -50,7 +50,7 @@
     <td width="33%" valign="top">
       <h3 align="center">🗺️ DISHAA</h3>
       <p align="center">
-        Interactive 2.5D virtual campus navigation engine built for smart routing, location search, and dynamic building exploration integrated with an AI guide bot.
+        Interactive virtual campus navigation engine built for smart routing, pinpoint location search, and dynamic floor exploration integrated with an AI guide bot.
       </p>
       <p align="center">
         <code>React</code> • <code>Leaflet / OSM</code> • <code>Botpress AI</code>
@@ -62,7 +62,7 @@
     <td width="33%" valign="top">
       <h3 align="center">🍽️ Zayka Dining</h3>
       <p align="center">
-        Comprehensive dining and automated restaurant billing solution designed for real-time order tracking, invoice calculation, and kitchen desk operations.
+        Comprehensive dining and automated restaurant billing management solution designed for real-time order computing, invoice generation, and kitchen desk operations.
       </p>
       <p align="center">
         <code>React</code> • <code>Node.js</code> • <code>MongoDB</code> • <code>Express</code>
@@ -74,7 +74,7 @@
     <td width="33%" valign="top">
       <h3 align="center">📖 Cook Book</h3>
       <p align="center">
-        Feature-packed culinary portal enabling seamless recipe filtering, nutritional ingredient lookups, and dynamic meal planning interfaces.
+        Feature-rich culinary portal and recipe repository enabling structured dietary filtering, ingredient breakdown, and responsive meal planning interfaces.
       </p>
       <p align="center">
         <code>JavaScript</code> • <code>Tailwind CSS</code> • <code>REST API</code>
@@ -91,29 +91,28 @@
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <!-- GitHub Streak Stats (Working reliably) -->
+  <!-- GitHub Streak Counter -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshal-ninawe&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Dynamic GitHub Trophies (Tokyo Night Theme) -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=harshal-ninawe&theme=tokyonight&no-frame=true&no-bg=true&margin_w=15&row=1&column=7" alt="Harshal's GitHub Trophies" />
-  </a>
+  <!-- Self-Hosted Profile Details & Language Breakdown Cards -->
+  <img src="https://raw.githubusercontent.com/harshal-ninawe/harshal-ninawe/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" width="48%" />
+  &nbsp;
+  <img src="https://raw.githubusercontent.com/harshal-ninawe/harshal-ninawe/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos Per Language" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- Quick Live Metrics -->
-  <img src="https://img.shields.io/github/followers/harshal-ninawe?label=Followers&style=flat-square&color=7aa2f7&labelColor=1a1b26" alt="Followers" />
+  <!-- Commit Distribution Card -->
+  <img src="https://raw.githubusercontent.com/harshal-ninawe/harshal-ninawe/main/profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Commit Languages" width="48%" />
   &nbsp;
-  <img src="https://img.shields.io/github/stars/harshal-ninawe?label=Total%20Stars&style=flat-square&color=bb9af7&labelColor=1a1b26" alt="Stars" />
-  &nbsp;
-  <img src="https://img.shields.io/github/search/harshal-ninawe/repo?query=repo&label=Public%20Repos&style=flat-square&color=7dcfff&labelColor=1a1b26" alt="Repos" />
+  <img src="https://raw.githubusercontent.com/harshal-ninawe/harshal-ninawe/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="Stats Summary" width="48%" />
 </div>
+
 ---
 
 ### 🐍 Contribution Arcade
