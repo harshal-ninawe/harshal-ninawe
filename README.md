@@ -91,17 +91,29 @@
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <!-- Dynamic Activity Contribution Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshal-ninawe&theme=tokyo-night&hide_border=true&bg_color=1a1b26&color=7aa2f7&line=bb9af7&point=7dcfff" width="95%" alt="Harshal's Activity Graph" />
+  <!-- GitHub Streak Stats (Working reliably) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshal-ninawe&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <!-- GitHub Streak Stats (Already working reliably) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshal-ninawe&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=bb9af7&currStreakLabel=7aa2f7" alt="GitHub Streak" />
+  <!-- Dynamic GitHub Trophies (Tokyo Night Theme) -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=harshal-ninawe&theme=tokyonight&no-frame=true&no-bg=true&margin_w=15&row=1&column=7" alt="Harshal's GitHub Trophies" />
+  </a>
 </div>
 
+<br/>
+
+<div align="center">
+  <!-- Quick Live Metrics -->
+  <img src="https://img.shields.io/github/followers/harshal-ninawe?label=Followers&style=flat-square&color=7aa2f7&labelColor=1a1b26" alt="Followers" />
+  &nbsp;
+  <img src="https://img.shields.io/github/stars/harshal-ninawe?label=Total%20Stars&style=flat-square&color=bb9af7&labelColor=1a1b26" alt="Stars" />
+  &nbsp;
+  <img src="https://img.shields.io/github/search/harshal-ninawe/repo?query=repo&label=Public%20Repos&style=flat-square&color=7dcfff&labelColor=1a1b26" alt="Repos" />
+</div>
 ---
 
 ### 🐍 Contribution Arcade
